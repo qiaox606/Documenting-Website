@@ -23,28 +23,49 @@ video{
   margin-bottom:70px;
 }
 
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  padding: 10px 16px;
-  background: #62B8CD;
-}
-
 a:link {
-  color: white;
+  color: #879395;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: none;
-  color:#879395;
+  color:#62B8CD;
 }
 
 a:visited{
-  color:white;
+  color:#879395;
 }
 
 a:active{
+  color:#62B8CD;
+}
+
+h1 {
+	font-size: 48px;
+	line-height: 1;
+	margin-top: 10%;
+  margin-left:10%;
+	width: 8em;
+  font-family: 'DM Serif Text', serif;
   color:#879395;
+}
+
+h2 {
+  margin-left:10%;
+  font-family: 'DM Serif Text', serif;
+  color:#879395;
+}
+
+h3{
+  margin-left:10%;
+  font-family: 'DM Serif Text', serif;
+  color:#879395;
+}
+
+p{
+  font-family: 'DM Serif Text', serif;
+  color:#879395;
+  margin-left:10%;
+  margin-right:30%;
 }
