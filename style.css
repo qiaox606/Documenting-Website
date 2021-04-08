@@ -1,8 +1,4 @@
-p{
-  color:white;
-  font-family: 'DM Serif Text', serif;
-  font-size:20px;
-}
+
 
 img {
    display:block;
@@ -42,11 +38,11 @@ a:active{
 }
 
 h1 {
-	font-size: 48px;
-	line-height: 1;
-	margin-top: 10%;
+  font-size: 48px;
+  line-height: 1;
+  margin-top: 10%;
   margin-left:10%;
-	width: 8em;
+  width: 8em;
   font-family: 'DM Serif Text', serif;
   color:#879395;
 }
